@@ -1,4 +1,4 @@
-# Jupyter_Container
+# README
 
 This container is for deploying a Jupyter Notebooks instance that is ready for use in analysis. This instance of Jupyter deploys with a Python 2, Python 3 and R kernel along with various libraries used in data analysis/visualization.
 Instructions for installation
